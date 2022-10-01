@@ -145,7 +145,7 @@ Couples especially prefer it - they rated this resort 9.8 for a trip for two.</p
                   excellent location score of 9.3!
                 </span>
                 <h2>
-                  <b>${days * data.cheapestPrice * options.room}</b> (12
+                  <b>$805</b> (12
                   nights)
                 </h2>
                 <button onClick={handleClick}>Reserve or Book Now!</button>
